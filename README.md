@@ -3,7 +3,13 @@
 
 A theme inspired by Half Life 1 options menu
 
-![](images/hl_options.png)
+<details>
+  <summary>Half life options</summary>
+
+
+  ![](images/hl_options.png)
+</details>
+
 
 
 ## How to install
